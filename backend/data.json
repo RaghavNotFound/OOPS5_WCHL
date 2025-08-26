@@ -1,0 +1,17 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Frontend Developer",
+      "company": "Acme",
+      "description": "Build UI"
+    }
+  ],
+  "challenges": [
+    {
+      "id": 1,
+      "title": "Algorithm Challenge",
+      "difficulty": "Easy"
+    }
+  ]
+}
