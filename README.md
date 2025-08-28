@@ -132,7 +132,7 @@ This project is licensed under the **MIT License**.
 ---
 
 ## **Contributors**
-👨‍💻 **Raghav** – Developer & Maintainer  
+👨‍💻 **OOPS5** – Developer & Maintainer  
 
 ---
 
